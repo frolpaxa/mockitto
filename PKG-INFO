@@ -1,0 +1,7 @@
+Name: mockitto
+Version: 0.1.0
+Summary: Cross-platform lib for mock data from server in Python.
+Home-page: https://github.com/frolpaxa/mockitto
+Author: Pavel Frolov
+Author-email: frolpaxa@gmail.com
+License: BSD

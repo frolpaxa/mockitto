@@ -1,0 +1,1 @@
+Cross-platform lib for mock data from server in Python.
